@@ -113,10 +113,10 @@ function Project() {
                             </div>
                         </div>
                     </div>
-                    <div className="view__more__btn d__flex align__item__center justify__content__center pxy__30">
-                        <button onClick={()=> window.open("https://github.com/coralavital?tab=repositories", "_blank")} className="view__more btn__hover pinter btn">View more</button>
-                    </div>
                 </div>
+				<div className="view__more__btn d__flex align__item__center justify__content__center pxy__30">
+					<button onClick={()=> window.open("https://github.com/coralavital?tab=repositories", "_blank")} className="view__more btn__hover pinter btn">View more</button>
+				</div>
             </div>
         </div>
     )
