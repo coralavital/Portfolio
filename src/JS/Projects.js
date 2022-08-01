@@ -39,7 +39,7 @@ function Project() {
                         <div className="project__box pointer relative">
                             <div className="project__box__img pointer relative">
                                 <div className="project__img__box">
-                                    <img src={Project2} className="project__img Project2" alt="project2"/>
+                                    <img src={Project2} className="project__img" alt="project2"/>
                                 </div>
                                 <div className="mask__effect"></div>
                             </div>
@@ -70,7 +70,7 @@ function Project() {
                         <div className="project__box pointer relative">
                             <div className="project__box__img pointer relative">
                                 <div className="project__img__box">
-                                    <img src={Project4} className="project__img Project4" alt="project4"/>
+                                    <img src={Project4} className="project__img" alt="project4"/>
                                 </div>
                                 <div className="mask__effect"></div>
                             </div>
@@ -86,7 +86,7 @@ function Project() {
                         <div className="project__box pointer relative">
                             <div className="project__box__img pointer relative">
                                 <div className="project__img__box">
-                                    <img src={Project5} className="project__img Project5" alt="project5"/>
+                                    <img src={Project5} className="project__img" alt="project5"/>
                                 </div>
                                 <div className="mask__effect"></div>
                             </div>
