@@ -19,7 +19,6 @@ function Services() {
                                 <h1 className="services__text">Server side</h1>
                                 <p className="p services__text p__color">Python</p>
                                 <p className="p services__text p__color">Java</p>
-                                <p className="p services__text p__color">C# </p>
                                 <p className="p services__text p__color">Node.js</p>
                                 <p id="fake" className="p services__text p__color"></p>
                             </div>
@@ -35,7 +34,6 @@ function Services() {
                                 <h1 className="services__text">Client side</h1>
                                 <p className="p services__text p__color">JavaScript  + ES6 </p>
                                 <p className="p services__text p__color">React</p>
-                                <p className="p services__text p__color">Angular</p>
                                 <p className="p services__text p__color">Vue.js</p>
                                 <p id="fake" className="p services__text p__color"></p>
                             </div>
@@ -52,7 +50,6 @@ function Services() {
                                 <p className="p services__text p__color">HTML5 </p>
                                 <p className="p services__text p__color">CSS3 </p>
                                 <p className="p services__text p__color">Bootstrap , Material-UI</p>
-                                <p className="p services__text p__color">XD</p>
                                 <p id="fake" className="p services__text p__color"></p>
                             </div>
                         </div>
