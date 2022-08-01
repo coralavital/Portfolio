@@ -31,7 +31,8 @@ function Project() {
                                 <h5 className="project__text">Pet's-Nanny</h5>
                                 <h4 className="project__text">EJS & NODEJS - Petsiting Website</h4>
                                 <a href="https://github.com/coralavital/pets_nanny" className="project__btn">View Project</a>
-                            </div>
+								<a href="https://pet-nanny.herokuapp.com/" className="project__btn">View the Website</a>
+							</div>
                         </div>
                     </div>
 
@@ -78,7 +79,8 @@ function Project() {
                                 <h5 className="project__text">Tic-Tac-Toe</h5>
                                 <h4 className="project__text">React - Game</h4>
                                 <a href="https://github.com/coralavital/Tic-Tac-Toe" className="project__btn">View Project</a>
-                            </div>
+								<a href="https://coralavital.github.io/Tic-Tac-Toe/" className="project__btn">View on Web</a>
+							</div>
                         </div>
                     </div>
 
@@ -110,6 +112,7 @@ function Project() {
                                 <h5 className="project__text">Todo list</h5>
                                 <h4 className="project__text">React</h4>
                                 <a href="https://github.com/coralavital/Todo-app" className="project__btn">View Project</a>
+								<a href="https://coralavital.github.io/Todo-app/" className="project__btn">View the Website</a>
                             </div>
                         </div>
                     </div>
