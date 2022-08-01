@@ -21,7 +21,7 @@ function About() {
                             <p className="about__text p__color">
                             I’m Coral , a passionate full-stack developer.
                             <br/>
-                            Since I was a girl , I’ve always loved computers , and I started programming as a teenager .
+                            Since I was a girl , I have always loved computers, <br/>inventing and designing things .
                             </p>
                             <p className="about__text p__color">
                             After high school , I followed my dreams and studied software engineering and development .
@@ -31,7 +31,7 @@ function About() {
                             <p className="about__text p__color">
                             These days my time is spent coding , designing , learning and researching .
                             <br/>
-                            Out of the office you’ll find me playing chess , solving a Hungarian cube , and listening to music :)
+                            Outside the office you will find me reading books, solving a Hungarian cube and listening to music :)
                             </p>
                             <div className="about__button d__flex align__items__center">
                                 <a href={CV} download="CV-CoralAvital.pdf"><button className="about btn pointer" >Download CV</button></a>

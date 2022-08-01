@@ -41,10 +41,10 @@ function Home() {
                         WELCOME TO MY WORLD
                         </h1>
                         <h2 className="home__text pz__10">
-                            Hi , I'm Coral Avital .
+                            Hi , I'm Coral Avital
                         </h2>
                         <h3 className="home__text pz__10 sweet">
-                        Full Stack Developer .
+                        Full Stack Developer
                         </h3>
                         <h4 className="home__text pz__10">
                   <svg onClick={()=> window.open("https://www.linkedin.com/in/coral-avital/", "_blank")} xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">

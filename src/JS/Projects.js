@@ -98,7 +98,7 @@ function Project() {
                         </div>
                     </div>
 
-                    {/*<div className="col__3">
+                    <div className="col__3">
                         <div className="project__box pointer relative">
                             <div className="project__box__img pointer relative">
                                 <div className="project__img__box">
@@ -109,10 +109,10 @@ function Project() {
                             <div className="project__meta absolute">
                                 <h5 className="project__text">Todo list</h5>
                                 <h4 className="project__text">React</h4>
-                                <a href="" className="project__btn">View Project</a>
+                                <a href="https://github.com/coralavital/Todo-app" className="project__btn">View Project</a>
                             </div>
                         </div>
-                    </div>*/}
+                    </div>
                     <div className="view__more__btn d__flex align__item__center justify__content__center pxy__30">
                         <button onClick={()=> window.open("https://github.com/coralavital?tab=repositories", "_blank")} className="view__more btn__hover pinter btn">View more</button>
                     </div>
