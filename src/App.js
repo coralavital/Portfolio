@@ -1,7 +1,7 @@
 import './App.css';
 import Home from './JS/Home';
 import About from './JS/About';
-import Services from './JS/Services';
+import Skills from './JS/Skills';
 import Project from './JS/Projects';
 import Contact from './JS/Contact';
 import Footer from './JS/Footer';
@@ -12,7 +12,7 @@ function App() {
     <div className="App">
      <Home />
      <About />
-     <Services />
+     <Skills />
      <Project />
      <Contact />
      <Footer />

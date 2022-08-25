@@ -13,7 +13,7 @@ function Home() {
                     <ul className="navbar d__flex">
                         <a href="#Home"><li className="nav__items mx__15">HOME</li></a>
                         <a href="#About"><li className="nav__items mx__15">ABOUT</li></a>
-                        <a href="#Services"><li className="nav__items mx__15">SKILLS</li></a>
+                        <a href="#Skills"><li className="nav__items mx__15">SKILLS</li></a>
                         <a href="#Project"><li className="nav__items mx__15">PROJECT</li></a>
                         <a href="#Contact"><li className="nav__items mx__15">CONTACT</li></a>
                     </ul>

@@ -14,21 +14,21 @@ p.heading.p__color{
     text-align: center;
     line-height: 1.2;
 }
-.services__box{
+.skills__box{
     border-radius: 10px;
     width: 100%;
     background-color: #191919;
     padding: 55px;
     transition: .4s ease;
 }
-.services__box:hover{
+.skills__box:hover{
     transform: translateY(5px);
     background-image: linear-gradient(90deg , #f61b10 , #ef0963);
 }
-.services__box:hover .icon{
+.skills__box:hover .icon{
     color: #fff;
 }
-.services__box:hover p.services__text.p__color{
+.skills__box:hover p.skills__text.p__color{
     color: #fff !important;
 }
 .icon{
@@ -38,17 +38,17 @@ p.heading.p__color{
     display: inline-flex;
     color: #f9004d;
 }
-p.services__text.p__color{
+p.skills__text.p__color{
     margin-bottom: 0;
     font-family: 'Bebas Neue', cursive;
 }
-h1.services__text{
+h1.skills__text{
     font-size: 19px;
     font-family: Poppins , sans-serif ;
     padding: 10px 0px;
 }
 @media only screen and (max-width: 1024px){
-    .services__box {
+    .skills__box {
         padding: 32px;
     }
     }
