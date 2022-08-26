@@ -1,6 +1,6 @@
 import React from 'react' ;
-import '../CSS/Skills.css' ;
-Skills() {
+import '../CSS/Skills.css';
+function Skills() {
     return (
         <div className="skills component__space" id="Skills">
             <div className="heading">

@@ -21,7 +21,6 @@ function Contact() {
                    <div className="contact__box">
                        <div className="contact__meta">
                            <h1 className="hire__text">Contact me</h1>
-                           <p className="hire__text white">I'm available to work full-time .</p>
                            <p className="hire__text white">Phone : <strong>052-6650522 </strong></p>
                            <p className="hire__text white">Email : <strong> CORALAVITAL@ICLOUD.COM</strong></p>
                        </div>
@@ -30,6 +29,7 @@ function Contact() {
                            <input name='name' type="text" className="contact name" placeholder="Your name *" required/>
                            <input name='email' type="text" className="contact email" placeholder="Your email *" required/>
                            <textarea name="message" id="message" placeholder="Write Your message" required></textarea>
+
                            <button className="btn contact pointer" type="submit" value='Send'>submit</button>
                            </form>
                        </div>
