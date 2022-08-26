@@ -27,9 +27,8 @@ function Contact() {
                        <div className="input__box">
                            <form onSubmit={handleSubmit}>
                            <input name='name' type="text" className="contact name" placeholder="Your name *" required/>
-                           <input name='email' type="text" className="contact email" placeholder="Your email *" required/>
+                           <input name='email' type="email" className="contact email" placeholder="Your email *" required/>
                            <textarea name="message" id="message" placeholder="Write Your message" required></textarea>
-
                            <button className="btn contact pointer" type="submit" value='Send'>submit</button>
                            </form>
                        </div>
